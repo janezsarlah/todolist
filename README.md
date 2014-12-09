@@ -1,11 +1,13 @@
 #A simple ToDo list application
 
-APP:
+<strong>APP:</strong>
 
 To use the ToDo list just copy the content to your localhost directory.
 
-DB:
+<strong>DB:</strong>
 
 Import the todolist.sql database.
+
+=====
 
 Enjoy!
